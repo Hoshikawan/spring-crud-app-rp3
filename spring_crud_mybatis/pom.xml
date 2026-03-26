@@ -13,8 +13,8 @@
 	<version>1.0-ex1-ap1</version>
 	<name>spring_crud_maybatis</name>
 	<description>Demo project for Spring Boot</description>
-		<packaging>jar</packaging>
-<!--		<packaging>war</packaging>-->
+<!--		<packaging>jar</packaging>-->
+		<packaging>war</packaging>
 	
 	<properties>
 		<java.version>17</java.version>
